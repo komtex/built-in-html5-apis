@@ -1,0 +1,14 @@
+.banner {
+  position: absolute;
+  left: 340px;
+  width: calc(100vw - 10px);
+  border: solid black 1px;
+  box-shadow: 1px 2px;
+  background-color: yellow;
+  padding: 6px;
+  text-align: center;
+  box-sizing: border-box;
+}
+video {
+  filter: blur(3px) hue-rotate(180deg); 
+}
